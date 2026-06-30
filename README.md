@@ -1,4 +1,4 @@
-# Tecolotl Ranch
+# Teco Lab Ranch
 
 ## Overview
 
